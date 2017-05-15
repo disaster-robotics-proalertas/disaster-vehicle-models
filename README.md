@@ -5,11 +5,13 @@ Gazebo simulation models of vehicles (land, air, water) used in disaster scenari
 criar aqui uma hierarquia de dir 
   - description
     - land
-       - all land robots
+       - all land robot models
     - water
-       - all water (underwater or surface) robots
+       - all water (underwater or surface) robot models
     - air
-       - all flying robots
+       - all flying robot models
+    - humanoid
+       - all biped or humanoid robots models
 
 montar como se fosse um pacote ros que instala todos estes modelos
 
